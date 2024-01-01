@@ -8,7 +8,7 @@ UE5の機能を実験するプロジェクトです。
 
 ![PCG Examples](Docs/pcg.jpg)
 
-- [[UE5] プロシージャルコンテンツ生成（PCG）最初に知っておきたいポイントと実践TIPS | gam0022.net](https://gam0022.net/blog/2024/01/01/ue5-pcg-tips/)
+- [[UE5] プロシージャルコンテンツ生成（PCG）最初に知っておきたいポイントと実践TIPS | gam0022.net](https://gam0022.net/blog/2024/01/01/ue5-pcg-introduction-tips/)
 
 ## Object Space Raymarching
 
